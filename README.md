@@ -11,7 +11,8 @@ I focus on **analytics, visualization, programming, machine learning, and data s
 - **Analytics & Visualization:** Power BI, Tableau, Looker Studio  
 - **Machine Learning:** Classification, regression, feature engineering, model evaluation  
 - **Forecasting:** ARIMA, Prophet (currently improving proficiency)  
-- **Databases:** PostgreSQL, GCP
+- **Databases:** PostgreSQL, Hive/Impala, BigQuery
+- **Data Engineering & MLOPS:** Airflow, Kubeflow
 - **Tools:** Git/GitHub, Excel/Office
 
 ---
